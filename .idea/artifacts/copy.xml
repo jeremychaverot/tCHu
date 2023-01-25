@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="copy">
+    <output-path>$PROJECT_DIR$/out/artifacts/copy</output-path>
+    <root id="root">
+      <element id="archive" name="projet-cs108.zip">
+        <element id="directory" name="tCHu - USA">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$PROJECT_DIR$/src" />
+          </element>
+          <element id="directory" name="resources">
+            <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
