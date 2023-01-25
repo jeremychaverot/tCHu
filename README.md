@@ -1,6 +1,6 @@
 # Information
 
-Projet réalisé dans le cadre du cours Pratique de la Programmation Orientée-Objet ([CS-208](https://edu.epfl.ch/coursebook/fr/pratique-de-la-programmation-orientee-objet-CS-108)) dispensé à l'EPFL.
+Projet réalisé dans le cadre du cours Pratique de la Programmation Orientée-Objet ([CS-208](https://edu.epfl.ch/coursebook/fr/pratique-de-la-programmation-orientee-objet-CS-108)) dispensé à l'EPFL. Voir l'[archive](https://cs108.epfl.ch/archive/21/archive.html) du site du cours pour la description détaillée des étapes.
 
 Auteurs: Cristian Safta, Jérémy Chaverot.
 
