@@ -80,7 +80,7 @@
       <recent name="ch.epfl.tchu.game" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClientMain">
+  <component name="RunManager" selected="Application.ServerMain">
     <configuration name="ClientMain" type="Application" factoryName="Application" singleton="false">
       <option name="MAIN_CLASS_NAME" value="ch.epfl.tchu.gui.ClientMain" />
       <module name="CS108-Project" />
@@ -414,6 +414,7 @@
       <workItem from="1674685490519" duration="81000" />
       <workItem from="1674685583784" duration="770000" />
       <workItem from="1674687149569" duration="6000" />
+      <workItem from="1674687498901" duration="29000" />
     </task>
     <servers />
   </component>
