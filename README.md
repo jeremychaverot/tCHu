@@ -18,7 +18,7 @@ Afin de relier ces deux villes, Ada doit s'emparer d'un certain nombre de routes
 
   1. Berne - Lucerne,
   2. Lucerne - Schwyz,
-  3. Schwyz - Wassen, et
+  3. Schwyz - Wassen,
   4. Wassen - Coire.
 
 En consultant la carte (numéro 3), on remarque qu'à ce stade de la partie, Ada s'est déjà emparée de ces quatre routes. Cela se voit au fait qu'elles sont occupées par des wagons bleu clair — la couleur correspondant à Ada —, symbolisés par des rectangles colorés ornés de disques blancs.
