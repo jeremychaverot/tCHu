@@ -1,4 +1,4 @@
-# Présentation du projet - tCHu (cr. Michel Schinz)
+# tCHu - Présentation du projet (cr. Michel Schinz)
 
 Le projet de cette année, nommé tCHu et prononcé « tchou », est un jeu fortement inspiré de la version suisse des [Aventuriers du Rail](https://fr.wikipedia.org/wiki/Les_Aventuriers_du_Rail), un célèbre jeu de société. Notre variante se joue à deux, sur une carte représentant un réseau ferroviaire reliant différentes villes de Suisse et des pays voisins.
 
@@ -10,7 +10,7 @@ La vue présentée ci-dessous est celle d'Ada. Celles de Charles est similaire, 
 
 Les joueurs de tCHu ont pour but de réaliser un certain nombre d'objectifs, donnés par les billets en leur possession, affichés en bas à gauche de l'écran (numéro 5). Par exemple, le second billet visible dans la liste d'Ada est :
 
-  Berne - Coire (10)
+Berne - Coire (10)
 
 Ce billet permet à Ada de gagner 10 points si elle parvient à relier les villes de Berne et de Coire avant la fin de la partie. Si elle n'y parvient pas, elle perd ces 10 points.
 
@@ -34,3 +34,7 @@ Les joueurs peuvent également obtenir de nouveaux billets lors d'un tour, en ti
 La partie se termine lorsqu'un joueur possède deux wagons ou moins. Dès cet instant, chaque joueur joue encore un tour, après quoi le décompte des points est effectué. Le joueur en ayant obtenu le plus grand nombre est déclaré vainqueur.
 
 La description du jeu donnée ci-dessus est encore incomplète, certains éléments comme les tunnels ou les cartes locomotive ayant été omis pour ne pas alourdir la présentation. Ces éléments et les règles qui y correspondent seront décrits dans le cadre des différentes étapes.
+
+# Version américaine
+
+La dernière étape du projet étant libre, nous avons décidé de traverser les océans, et d'implémenter une version américaine de tCHu. De plus nous avons ajouté des animations, des sons, la possibilité de jouer de 2 à 8 joueurs, de discuter via un chat textuel, et la mise en évidence du plus long trajet à la fin de la partie.
