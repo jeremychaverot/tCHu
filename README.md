@@ -10,16 +10,16 @@ La vue présentée ci-dessous est celle d'Ada. Celles de Charles est similaire, 
 
 Les joueurs de tCHu ont pour but de réaliser un certain nombre d'objectifs, donnés par les billets en leur possession, affichés en bas à gauche de l'écran (numéro 5). Par exemple, le second billet visible dans la liste d'Ada est :
 
-Berne - Coire (10)
+    Berne - Coire (10)
 
 Ce billet permet à Ada de gagner 10 points si elle parvient à relier les villes de Berne et de Coire avant la fin de la partie. Si elle n'y parvient pas, elle perd ces 10 points.
 
 Afin de relier ces deux villes, Ada doit s'emparer d'un certain nombre de routes qui, mises bout à bout, forment un trajet continu allant de Berne à Coire. Une route relie deux gares voisines du réseau, et le moyen le plus simple de relier Berne à Coire consiste donc à s'emparer des quatre routes suivantes :
 
-Berne - Lucerne,
-Lucerne - Schwyz,
-Schwyz - Wassen, et
-Wassen - Coire.
+1. Berne - Lucerne,
+2. Lucerne - Schwyz,
+3. Schwyz - Wassen, et
+4. Wassen - Coire.
 
 En consultant la carte (numéro 3), on remarque qu'à ce stade de la partie, Ada s'est déjà emparée de ces quatre routes. Cela se voit au fait qu'elles sont occupées par des wagons bleu clair — la couleur correspondant à Ada —, symbolisés par des rectangles colorés ornés de disques blancs.
 
