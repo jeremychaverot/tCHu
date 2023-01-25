@@ -10,7 +10,7 @@ La vue présentée ci-dessous est celle d'Ada. Celles de Charles est similaire, 
 
 Les joueurs de tCHu ont pour but de réaliser un certain nombre d'objectifs, donnés par les billets en leur possession, affichés en bas à gauche de l'écran (numéro 5). Par exemple, le second billet visible dans la liste d'Ada est :
 
-   Berne - Coire (10)
+  Berne - Coire (10)
 
 Ce billet permet à Ada de gagner 10 points si elle parvient à relier les villes de Berne et de Coire avant la fin de la partie. Si elle n'y parvient pas, elle perd ces 10 points.
 
