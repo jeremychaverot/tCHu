@@ -1,3 +1,11 @@
+# Information
+
+Projet réalisé dans le cadre du cours Pratique de la Programmation Orientée-Objet ([CS-208](https://edu.epfl.ch/coursebook/fr/pratique-de-la-programmation-orientee-objet-CS-108)) dispensé à l'EPFL.
+
+Auteurs: Cristian Safta, Jérémy Chaverot.
+
+Date: Février-Juin 2021.
+
 # tCHu - Présentation du projet (cr. Michel Schinz)
 
 Le projet de cette année, nommé tCHu et prononcé « tchou », est un jeu fortement inspiré de la version suisse des [Aventuriers du Rail](https://fr.wikipedia.org/wiki/Les_Aventuriers_du_Rail), un célèbre jeu de société. Notre variante se joue à deux, sur une carte représentant un réseau ferroviaire reliant différentes villes de Suisse et des pays voisins.
@@ -38,3 +46,5 @@ La description du jeu donnée ci-dessus est encore incomplète, certains éléme
 # Version américaine
 
 La dernière étape du projet étant libre, nous avons décidé de traverser les océans, et d'implémenter une version américaine de tCHu. De plus nous avons ajouté des animations, des sons, la possibilité de jouer de 2 à 8 joueurs, de discuter via un chat textuel, et la mise en évidence du plus long trajet à la fin de la partie.
+
+<img width="1545" alt="game-window-usa" src="https://user-images.githubusercontent.com/100281310/214703820-3f7f80a9-23e7-4460-a2e9-151e36fe2bc2.png">
