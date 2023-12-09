@@ -6,6 +6,12 @@ Auteurs: Cristian Safta, Jérémy Chaverot.
 
 Date: Février-Juin 2021.
 
+# Version américaine
+
+La dernière étape du projet étant libre, nous avons décidé de traverser les océans, et d'implémenter une version américaine de tCHu. De plus nous avons ajouté des animations, des sons, la possibilité de jouer de 2 à 8 joueurs, de discuter via un chat textuel, et la mise en évidence du plus long trajet à la fin de la partie.
+
+<img width="1545" alt="game-window-usa" src="https://user-images.githubusercontent.com/100281310/214703820-3f7f80a9-23e7-4460-a2e9-151e36fe2bc2.png">
+
 # tCHu - Présentation du projet (cr. Michel Schinz)
 
 Le projet de cette année, nommé tCHu et prononcé « tchou », est un jeu fortement inspiré de la version suisse des [Aventuriers du Rail](https://fr.wikipedia.org/wiki/Les_Aventuriers_du_Rail), un célèbre jeu de société. Notre variante se joue à deux, sur une carte représentant un réseau ferroviaire reliant différentes villes de Suisse et des pays voisins.
@@ -42,9 +48,3 @@ Les joueurs peuvent également obtenir de nouveaux billets lors d'un tour, en ti
 La partie se termine lorsqu'un joueur possède deux wagons ou moins. Dès cet instant, chaque joueur joue encore un tour, après quoi le décompte des points est effectué. Le joueur en ayant obtenu le plus grand nombre est déclaré vainqueur.
 
 La description du jeu donnée ci-dessus est encore incomplète, certains éléments comme les tunnels ou les cartes locomotive ayant été omis pour ne pas alourdir la présentation. Ces éléments et les règles qui y correspondent seront décrits dans le cadre des différentes étapes.
-
-# Version américaine
-
-La dernière étape du projet étant libre, nous avons décidé de traverser les océans, et d'implémenter une version américaine de tCHu. De plus nous avons ajouté des animations, des sons, la possibilité de jouer de 2 à 8 joueurs, de discuter via un chat textuel, et la mise en évidence du plus long trajet à la fin de la partie.
-
-<img width="1545" alt="game-window-usa" src="https://user-images.githubusercontent.com/100281310/214703820-3f7f80a9-23e7-4460-a2e9-151e36fe2bc2.png">
