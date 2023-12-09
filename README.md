@@ -10,7 +10,7 @@ Date: Février-Juin 2021.
 
 La dernière étape du projet étant libre, nous avons décidé de traverser les océans, et d'implémenter une version américaine de tCHu. De plus nous avons ajouté des animations, des sons, la possibilité de jouer de 2 à 8 joueurs, de discuter via un chat textuel, et la mise en évidence du plus long trajet à la fin de la partie.
 
-![Uploading tchu usa.png…]()
+<img width="1455" alt="tchu usa" src="https://github.com/JCHAVEROT/tCHu/assets/100281310/f4228f48-c03c-4ee8-9786-765ee1e90981">
 
 # tCHu - Présentation du projet (cr. Michel Schinz)
 
